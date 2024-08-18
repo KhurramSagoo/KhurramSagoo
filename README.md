@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **MERN**
 
-- 👨‍💻 All of my projects are available at [https://e-portfolio-kappa-five.vercel.app/](https://e-portfolio-kappa-five.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://khurramsagoo.vercel.app/](https://khurramsagoo.vercel.app/)
 
 - 📫 How to reach me **uaf.khurram@gmail.com**
 
